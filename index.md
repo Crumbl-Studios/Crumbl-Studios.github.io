@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## What we do
+
+We are a small game studio that develops games using an open source game engine.
 
 You can use the [editor on GitHub](https://github.com/Crumbl-Studios/Crumbl-Studios.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
